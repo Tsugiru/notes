@@ -1,2 +1,4 @@
 - [Mocks are not stubs](https://martinfowler.com/articles/mocksArentStubs.html)
-
+- Law of demeter
+- Tell don't ask principle
+- [Why not how](https://cbea.ms/git-commit/#why-not-how)
